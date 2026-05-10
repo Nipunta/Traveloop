@@ -87,8 +87,6 @@ Built for hackathon development, the platform helps users create personalized tr
 ```text
 traveloop/
 │
-├── frontend/
+├── src/
 ├── backend/
-├── database/
-├── docs/
 └── README.md
